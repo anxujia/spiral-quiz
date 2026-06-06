@@ -49,8 +49,10 @@ AI：因为焦虑是交感神经激活→警觉性↑→难以入睡...
 
 ## 需求
 
-- AI Agent 平台（兼容 HanaAgent / OpenClaw / Claude Code / Codex）
+- AI Agent 平台（标准 Markdown 格式，兼容 HanaAgent / OpenClaw / Claude Code / Codex 等主流平台）
 - （可选）Python 3.8+ 用于自动读资料和进度持久化
+
+> **兼容性说明**：本 skill 为标准 Markdown 格式，兼容主流 Agent 平台。使用效果受模型能力影响，建议搭配中高强度推理模型使用。如遇执行问题，可先检查模型是否完整读取了 SKILL.md 中的核心行为守则。
 
 ---
 
